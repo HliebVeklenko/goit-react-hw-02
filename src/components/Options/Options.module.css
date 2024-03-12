@@ -1,0 +1,19 @@
+.optionButton {
+  background-color: darkgrey;
+  height: 50px;
+  width: 100px;
+  border-color: transparent;
+  border-radius: 10px;
+}
+
+.optionButton:hover,
+.optionButton:focus {
+  background-color: grey;
+}
+
+.list {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
